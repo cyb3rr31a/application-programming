@@ -1,0 +1,46 @@
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.userosscache
+*.suo
+*.userosscache
+*.suo
+*.userosscache
+*.suo
+*.userosscache
+*.suo
+*.userosscache
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
